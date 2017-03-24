@@ -1,2 +1,2 @@
 # YASCS
-Yet Another Student Control System
+Yet Another Student Attendance Control System
