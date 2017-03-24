@@ -1,10 +1,10 @@
 #include <stdio.h>
 
-#define EXIT(status) return status;
+#define __EXIT(status) return ##status;
 
 int main(){
   
   printf("Hello World!");
   
-  return EXIT(1);
+  return __EXIT(1);
 }
