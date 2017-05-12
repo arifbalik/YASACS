@@ -1,0 +1,9 @@
+C:\Users\hamit\Desktop\20170511\20170511\bin\Debug\20170511.exe.config
+C:\Users\hamit\Desktop\20170511\20170511\bin\Debug\20170511.exe
+C:\Users\hamit\Desktop\20170511\20170511\bin\Debug\20170511.pdb
+C:\Users\hamit\Desktop\20170511\20170511\obj\Debug\20170511.csprojResolveAssemblyReference.cache
+C:\Users\hamit\Desktop\20170511\20170511\obj\Debug\_20170511.Properties.Resources.resources
+C:\Users\hamit\Desktop\20170511\20170511\obj\Debug\20170511.csproj.GenerateResource.Cache
+C:\Users\hamit\Desktop\20170511\20170511\obj\Debug\20170511.exe
+C:\Users\hamit\Desktop\20170511\20170511\obj\Debug\20170511.pdb
+C:\Users\hamit\Desktop\20170511\20170511\obj\Debug\_20170511.Form1.resources
