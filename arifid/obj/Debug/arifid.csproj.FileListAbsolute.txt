@@ -1,0 +1,9 @@
+c:\users\van_n\onedrive\belgeler\visual studio 2015\Projects\arifid\arifid\bin\Debug\arifid.exe.config
+c:\users\van_n\onedrive\belgeler\visual studio 2015\Projects\arifid\arifid\bin\Debug\arifid.exe
+c:\users\van_n\onedrive\belgeler\visual studio 2015\Projects\arifid\arifid\bin\Debug\arifid.pdb
+c:\users\van_n\onedrive\belgeler\visual studio 2015\Projects\arifid\arifid\obj\Debug\arifid.csprojResolveAssemblyReference.cache
+c:\users\van_n\onedrive\belgeler\visual studio 2015\Projects\arifid\arifid\obj\Debug\arifid.Form1.resources
+c:\users\van_n\onedrive\belgeler\visual studio 2015\Projects\arifid\arifid\obj\Debug\arifid.Properties.Resources.resources
+c:\users\van_n\onedrive\belgeler\visual studio 2015\Projects\arifid\arifid\obj\Debug\arifid.csproj.GenerateResource.Cache
+c:\users\van_n\onedrive\belgeler\visual studio 2015\Projects\arifid\arifid\obj\Debug\arifid.exe
+c:\users\van_n\onedrive\belgeler\visual studio 2015\Projects\arifid\arifid\obj\Debug\arifid.pdb
