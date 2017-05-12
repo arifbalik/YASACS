@@ -6,19 +6,23 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
 
 namespace _20170511
 {
-    public partial class Form1 : Form
+    public partial class KAYITFORMU : Form
     {
         SqlConnection baglanti = new SqlConnection("Data Source=localhost; Initial Catalog=mikro; User Id=sa; password=sa123456;");
 
-        public Form1()
+        public KAYITFORMU()
         {
             InitializeComponent();
+        }
+        
+        private void btngoster_Click(object sender, EventArgs e)
+        {
+           
         }
         private void btnKaydet_Click(object sender, EventArgs e)
         {
@@ -42,14 +46,21 @@ namespace _20170511
             catch (Exception hata)
             {
                 MessageBox.Show("İşlem Sırasında Hata Oluştu." + hata.Message);
+                
             }
+           
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btngöster_Click(object sender, EventArgs e)
         {
-            Form2 frm = new Form2();
-            frm.ShowDialog();
+            
+        }
+
+        private void KAYITFORMU_Load(object sender, EventArgs e)
+        {
+
+            
         }
     }
 
